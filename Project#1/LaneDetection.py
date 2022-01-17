@@ -8,7 +8,7 @@ def func1(str):
 
 ## 함수2
 def func2():
-    print("projet1 브랜치에서 개발 후 main으로 merge")
+    print("projet1 브랜치에서 개발 후 main으로 merge~")
 ## 함수3
 def func3():
     print("모듈화 통합 개발!")
