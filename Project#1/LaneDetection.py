@@ -3,7 +3,7 @@ import cv2
 
 ## 함수1
 def func1():
-    print("모듈화 통합 개발")
+    print("모듈화 통합 개발!")
 ## 함수2
 
 ## 함수3
